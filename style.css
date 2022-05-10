@@ -1,0 +1,12 @@
+.container {
+    margin-top: 30px;
+}
+
+.name-field {
+    margin-top: 20px;
+    width: 50%;
+}
+
+.survey-link {
+    text-decoration: none;
+}
